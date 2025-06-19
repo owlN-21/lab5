@@ -328,3 +328,4 @@ C:\Users\Anastasia\Desktop\WebApp-EFDB\WebApp-EFDB\bin\Debug\net9.0\Microsoft.Ex
 C:\Users\Anastasia\Desktop\WebApp-EFDB\WebApp-EFDB\bin\Debug\net9.0\System.Text.Json.dll
 C:\Users\Anastasia\Desktop\WebApp-EFDB\WebApp-EFDB\bin\Debug\net9.0\runtimes\browser-wasm\nativeassets\net9.0\e_sqlite3.a
 C:\Users\Anastasia\Desktop\WebApp-EFDB\WebApp-EFDB\bin\Debug\net9.0\runtimes\linux-musl-s390x\native\libe_sqlite3.so
+C:\Users\Anastasia\Desktop\WebApp-EFDB\WebApp-EFDB\obj\Debug\net9.0\WebApp-EFDB.sourcelink.json

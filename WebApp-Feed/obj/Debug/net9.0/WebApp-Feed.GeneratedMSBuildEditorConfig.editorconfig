@@ -28,12 +28,28 @@ build_property._RazorSourceGeneratorDebug =
 build_property.EffectiveAnalysisLevelStyle = 9.0
 build_property.EnableCodeStyleSeverity = 
 
+[C:/Users/Anastasia/Desktop/WebApp-EFDB/WebApp-EFDB/WebApp-Feed/Areas/Feed/Views/Account/Login.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcRmVlZFxWaWV3c1xBY2NvdW50XExvZ2luLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Anastasia/Desktop/WebApp-EFDB/WebApp-EFDB/WebApp-Feed/Areas/Feed/Views/Account/Register.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcRmVlZFxWaWV3c1xBY2NvdW50XFJlZ2lzdGVyLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
 [C:/Users/Anastasia/Desktop/WebApp-EFDB/WebApp-EFDB/WebApp-Feed/Areas/Feed/Views/Home/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = QXJlYXNcRmVlZFxWaWV3c1xIb21lXEluZGV4LmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
 [C:/Users/Anastasia/Desktop/WebApp-EFDB/WebApp-EFDB/WebApp-Feed/Areas/Feed/Views/Home/Privacy.cshtml]
 build_metadata.AdditionalFiles.TargetPath = QXJlYXNcRmVlZFxWaWV3c1xIb21lXFByaXZhY3kuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Anastasia/Desktop/WebApp-EFDB/WebApp-EFDB/WebApp-Feed/Areas/Feed/Views/Post/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcRmVlZFxWaWV3c1xQb3N0XEluZGV4LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Anastasia/Desktop/WebApp-EFDB/WebApp-EFDB/WebApp-Feed/Areas/Feed/Views/Profile/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcRmVlZFxWaWV3c1xQcm9maWxlXEluZGV4LmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
 [C:/Users/Anastasia/Desktop/WebApp-EFDB/WebApp-EFDB/WebApp-Feed/Areas/Feed/Views/Shared/Error.cshtml]

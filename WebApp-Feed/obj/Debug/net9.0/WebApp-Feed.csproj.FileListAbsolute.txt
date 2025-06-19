@@ -92,3 +92,4 @@ C:\Users\Anastasia\Desktop\WebApp-EFDB\WebApp-EFDB\WebApp-Feed\obj\Debug\net9.0\
 C:\Users\Anastasia\Desktop\WebApp-EFDB\WebApp-EFDB\WebApp-Feed\obj\Debug\net9.0\compressed\cosb1ybh0e-co5h158ae2.gz
 C:\Users\Anastasia\Desktop\WebApp-EFDB\WebApp-EFDB\WebApp-Feed\obj\Debug\net9.0\compressed\4j6pntvdnm-zll0d30b3e.gz
 C:\Users\Anastasia\Desktop\WebApp-EFDB\WebApp-EFDB\WebApp-Feed\obj\Debug\net9.0\compressed\zbcmtboqs1-1zxr0n34xj.gz
+C:\Users\Anastasia\Desktop\WebApp-EFDB\WebApp-EFDB\WebApp-Feed\obj\Debug\net9.0\WebApp-Feed.sourcelink.json

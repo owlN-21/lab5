@@ -32,3 +32,4 @@ C:\Users\Anastasia\Desktop\WebApp-EFDB\WebApp-EFDB\WebApp-Landing\obj\Debug\net6
 C:\Users\Anastasia\Desktop\WebApp-EFDB\WebApp-EFDB\WebApp-Landing\obj\Debug\net6.0\refint\WebApp-Landing.dll
 C:\Users\Anastasia\Desktop\WebApp-EFDB\WebApp-EFDB\WebApp-Landing\obj\Debug\net6.0\WebApp-Landing.pdb
 C:\Users\Anastasia\Desktop\WebApp-EFDB\WebApp-EFDB\WebApp-Landing\obj\Debug\net6.0\ref\WebApp-Landing.dll
+C:\Users\Anastasia\Desktop\WebApp-EFDB\WebApp-EFDB\WebApp-Landing\obj\Debug\net6.0\WebApp-Landing.sourcelink.json

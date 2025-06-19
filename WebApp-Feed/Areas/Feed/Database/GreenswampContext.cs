@@ -7,8 +7,10 @@ using Microsoft.AspNetCore.Identity.EntityFrameworkCore;
 
 namespace WebApp_Feed.Database;
 //
-// This file was created by EF Tools:
-// Scaffold-DbContext "Data Source=../Data/Greenswamp.db" Microsoft.EntityFrameworkCore.Sqlite -Force
+// This file was created migration command:
+//
+// dotnet ef migrations add InitialCreate
+// dotnet ef database update
 //
 public partial class GreenswampContext : IdentityDbContext<Auth, IdentityRole<long>, long>
 {

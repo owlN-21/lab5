@@ -1,7 +1,9 @@
+using Microsoft.AspNetCore.Identity;
 using Microsoft.Extensions.FileProviders;
 using tutorialRazorPages.DataBase;
 using WebApp_Feed;
 using WebApp_Feed.Database;
+using WebApp_Feed.Models;
 using WebApp_Landing;
 using WebApp_Landing.Services;
 
@@ -38,6 +40,13 @@ namespace WebApp_EFDB
 
             // Add Landing Pages
             builder.Services.AddLandingPages();
+
+            builder.Services.AddIdentity<WebApp_Feed.Models.Auth, IdentityRole<long>>(options =>
+            {
+                options.SignIn.RequireConfirmedAccount = false;
+            })
+                .AddEntityFrameworkStores<GreenswampContext>()
+                .AddDefaultTokenProviders();
 
 
 
