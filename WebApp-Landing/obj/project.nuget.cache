@@ -1,0 +1,14 @@
+{
+  "version": 2,
+  "dgSpecHash": "BzL2GfRHnvU=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Anastasia\\Desktop\\WebApp-EFDB\\WebApp-EFDB\\WebApp-Landing\\WebApp-Landing.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Anastasia\\.nuget\\packages\\csvhelper\\33.1.0\\csvhelper.33.1.0.nupkg.sha512",
+    "C:\\Users\\Anastasia\\.nuget\\packages\\microsoft.csharp\\4.7.0\\microsoft.csharp.4.7.0.nupkg.sha512",
+    "C:\\Users\\Anastasia\\.nuget\\packages\\microsoft.netcore.app.ref\\6.0.36\\microsoft.netcore.app.ref.6.0.36.nupkg.sha512",
+    "C:\\Users\\Anastasia\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\6.0.36\\microsoft.windowsdesktop.app.ref.6.0.36.nupkg.sha512",
+    "C:\\Users\\Anastasia\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\6.0.36\\microsoft.aspnetcore.app.ref.6.0.36.nupkg.sha512"
+  ],
+  "logs": []
+}
